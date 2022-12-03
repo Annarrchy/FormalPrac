@@ -1,0 +1,6 @@
+S -> ACBd | FD
+A -> DcAB | bf | ca
+B -> BF | eD | fd
+C -> Cc | a
+D -> d | fbc
+F -> ACa | fBaeC | ae

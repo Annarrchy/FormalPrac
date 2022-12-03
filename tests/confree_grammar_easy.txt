@@ -1,0 +1,4 @@
+S -> TT
+T -> cTT
+T -> bT
+T -> a
