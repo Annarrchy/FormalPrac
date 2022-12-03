@@ -7,4 +7,4 @@
 В написанном алгоритме так же присутствует функция show_result, которая выводит таблицу вывода слова. Можно использовать если в CYK.py раскомментировать 104 строку "#show_result(table, word)".
  
 Покрыто unit-тестами: 
-![codecovCYK](https://user-images.githubusercontent.com/91114932/205451096-db5ce9ba-b82a-4274-b1b3-07b665890d70.png)
+![codecovCYK](https://user-images.githubusercontent.com/91114932/205451145-5842817d-9b72-4306-941f-cd10fde87a58.png)
